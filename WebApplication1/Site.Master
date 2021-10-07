@@ -18,6 +18,7 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
+
     <form runat="server">
         <asp:ScriptManager runat="server">
             <Scripts>
@@ -112,7 +113,6 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-               <!--안녕-->
                  <p style="text-align: center;">Copyright &copy; <%: DateTime.Now.Year %> Payletter Inc. All rights reserved. </p>
             </footer>
         </div>
