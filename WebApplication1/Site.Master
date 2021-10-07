@@ -112,7 +112,8 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p style="text-align: center;">Copyright &copy; <%: DateTime.Now.Year %> Payletter Inc. All rights reserved. </p>
+               <!--안녕-->
+                 <p style="text-align: center;">Copyright &copy; <%: DateTime.Now.Year %> Payletter Inc. All rights reserved. </p>
             </footer>
         </div>
     </form>
